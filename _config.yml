@@ -21,7 +21,7 @@ repository               : "fiona-st-liu/fiona-st-liu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "fiona_profile.png"
+  avatar           : "fiona.png"
   name             : "Fiona S. Liu"
   pronouns         : "she/her"  
   bio              : "Ph.D Candidate"
