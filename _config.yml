@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Fiona S. Liu"
+  pronouns         : "she/her"  
+  bio              : "Ph.D Candidate"
+  location         : "University Park, PA"
+  employer         : "Penn State University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "fsl5026@psu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
