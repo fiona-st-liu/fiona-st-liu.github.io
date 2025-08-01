@@ -24,19 +24,31 @@ author:
   avatar           : "fiona.png"
   name             : "Fiona S. Liu"
   pronouns         : "she/her"  
-  bio              : "Ph.D Candidate"
+  bio              : "Ph.D Candidate at Penn State University"
   location         : "University Park, PA"
-  employer         : "Penn State University"
+  employer         : # URL
   uri              : # URL
   email            : "fsl5026@psu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar-google-com.ezaccess.libraries.psu.edu/citations?hl=en&authuser=1&user=e5rKu54AAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "<a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0009-0006-0558-2611"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0009-0006-0558-2611
+    </a>"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
