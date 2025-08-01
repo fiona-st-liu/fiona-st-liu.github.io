@@ -14,3 +14,5 @@ Thank's for visiting my website! This site is currently under development. Pleas
 **Education:**
 - **Ph.D.** in Civil and Environmental Engineering, *The Pennsylvania State University* (Expected 2027)
 - **B.S.** in Ecology and Evolutionary Biology & Natural Resources and the Environment, *University of Connecticut* (2022)
+
+**Selected Publications:**
