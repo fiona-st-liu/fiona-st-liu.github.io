@@ -83,7 +83,7 @@ My research focus involves investigating how land use changes - such as deforest
   <div style="flex: 1 1 45%; max-width: 45%; text-align: center;">
     <img src="images/Grumpy.jpg" alt="Grumpy" 
          style="width: 100%; height: 200px; object-fit: cover; border-radius: 10px;"/>
-    <p style="font-size: 0.85em;">Meet my cat, Mr. Grumpy - frightening but extremely curious about the water </p>
+    <p style="font-size: 0.85em;">Meet my cat, Mr. Grumpy - frightened but extremely curious about the water </p>
   </div>
 
   <div style="flex: 1 1 45%; max-width: 45%; text-align: center;">
