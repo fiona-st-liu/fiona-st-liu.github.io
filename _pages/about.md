@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Thank's for visiting my website! This site is currently under development. Please check back soon for more content.
-
 **About Me:**
 Hello and thank you for visiting my website! I'm Fiona, a Ph.D. candidate in Civil and Environmental Engineering at the Pennsylvania State University, advised by Dr. Li Li. I expect to graduate in Summer 2027.
 
