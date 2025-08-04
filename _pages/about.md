@@ -26,7 +26,75 @@ My research focus involves investigating how land use changes - such as deforest
 - Bisson, A. M., Liu, F., Moore, E. M., Briggs, M. A., & Helton, A. M. (2025). Preferential groundwater discharges along stream corridors are disregarded sources of greenhouse gases. Journal of Geophysical Research: Biogeosciences, 130(3), e2024JG008395.
 
 **Galley**
-<div style="text-align: center;">
-  <img src="images/Gordon_2025.jpg" alt="Fiona Liu with colleagues" style="width: 80%; max-width: 400px; border-radius: 15px;" />
-  <p style="font-size: 0.9em; color: #555;">2025 Gordon Research Conference</p>
+<h2>Gallery</h2>
+<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+
+  <div style="flex: 1 1 200px; max-width: 220px; text-align: center;">
+    <img src="images/Gordon_2025.jpg" alt="Gordon 2025" style="width: 100%; border-radius: 10px;" />
+    <p style="font-size: 0.85em;">With my incredible research peers at the 2025 Gordon Research Conference</p>
+  </div>
+
+  <div style="flex: 1 1 200px; max-width: 220px; text-align: center;">
+    <img src="images/WaterConference_Audience.jpg" alt="Water Conference 2025" style="width: 100%; border-radius: 10px;" />
+    <p style="font-size: 0.85em;">A fantastic turnout at the 2025 Water Conference: Water on the Horizon. It was an honor to serve as the Water Council Student Representative and help organize this event alongside my amazing PAWS team. </p>
+  </div>
+
+  <div style="flex: 1 1 200px; max-width: 220px; text-align: center;">
+    <img src="images/FRES_HJA.jpg" alt="FRES_HJA" style="width: 100%; border-radius: 10px;" />
+    <p style="font-size: 0.85em;">With my incredible research team and PIs at the H.J. Andrews Experimental Forest</p>
+  </div>
+
+  <div style="flex: 1 1 200px; max-width: 220px; text-align: center;">
+    <img src="images/AGU_Group.jpg" alt="AGU_Group" style="width: 100%; border-radius: 10px;" />
+    <p style="font-size: 0.85em;">AGU 2024</p>
+  </div>
+
+  <div style="flex: 1 1 200px; max-width: 220px; text-align: center;">
+    <img src="images/AGU_Poster.jpg" alt="AGU_Poster" style="width: 100%; border-radius: 10px;" />
+    <p style="font-size: 0.85em;">Explaining my research poster to an audience at the 2024 AGU Conference</p>
+  </div>
+
+  <div style="flex: 1 1 200px; max-width: 220px; text-align: center;">
+    <img src="images/LabSocial.jpg" alt="Lab Social" style="width: 100%; border-radius: 10px;" />
+    <p style="font-size: 0.85em;">My lovely lab group, 2023</p>
+  </div>
+
+  <div style="flex: 1 1 200px; max-width: 220px; text-align: center;">
+    <img src="images/Gordon_2023.jpg" alt="Lab Social" style="width: 100%; border-radius: 10px;" />
+    <p style="font-size: 0.85em;">Gordon Research Conference, 2023</p>
+  </div>
+
+  <div style="flex: 1 1 200px; max-width: 220px; text-align: center;">
+    <img src="images/River1.jpg" alt="River1" style="width: 100%; border-radius: 10px;" />
+    <p style="font-size: 0.85em;">Conducting field work in my undergrad ages</p>
+  </div>
+
+  <div style="flex: 1 1 200px; max-width: 220px; text-align: center;">
+    <img src="images/Field2.jpg" alt="River1" style="width: 100%; border-radius: 10px;" />
+    <p style="font-size: 0.85em;">Conducting field work in my undergrad ages</p>
+  </div>
+
+</div>
+
+**Pets**
+They deserve a spotlight as well!
+
+<h2>Gallery</h2>
+<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+
+  <div style="flex: 1 1 200px; max-width: 220px; text-align: center;">
+    <img src="images/Grumpy.jpg" alt="Grumpy" style="width: 100%; border-radius: 10px;" />
+    <p style="font-size: 0.85em;">Meet my cat, Mr. Grumpy - frightening but extremely curious about the water </p>
+  </div>
+
+  <div style="flex: 1 1 200px; max-width: 220px; text-align: center;">
+    <img src="images/Ok.jpg" alt="Ok" style="width: 100%; border-radius: 10px;" />
+    <p style="font-size: 0.85em;">This is my dog, Ok. Yes, her name is Ok! </p>
+  </div>
+
+   <div style="flex: 1 1 200px; max-width: 220px; text-align: center;">
+    <img src="images/Pets_Together.jpg" alt="Pets_Together" style="width: 100%; border-radius: 10px;" />
+    <p style="font-size: 0.85em;">Both of them together on walks</p>
+  </div>
+  
 </div>
