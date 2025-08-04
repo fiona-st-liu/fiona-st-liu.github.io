@@ -58,12 +58,6 @@ My research focus involves investigating how land use changes - such as deforest
   </div>
 
   <div style="flex: 1 1 45%; max-width: 45%; text-align: center;">
-    <img src="images/LabSocial.jpg" alt="Lab Social" 
-       style="width: 100%; height: 200px; object-fit: contain; border-radius: 10px;"/>
-    <p style="font-size: 0.85em;">My lovely lab group, 2023</p>
-  </div>
-
-  <div style="flex: 1 1 45%; max-width: 45%; text-align: center;">
     <img src="images/Gordon_2023.jpg" alt="Lab Social" 
         style="width: 100%; height: 200px; object-fit: cover; border-radius: 10px;"/>
     <p style="font-size: 0.85em;">Gordon Research Conference, 2023</p>
@@ -94,13 +88,13 @@ My research focus involves investigating how land use changes - such as deforest
 
   <div style="flex: 1 1 45%; max-width: 45%; text-align: center;">
     <img src="images/Ok.jpg" alt="Ok" 
-         style="width: 100%; height: 200px; object-fit: contain; border-radius: 10px;"/>
+         style="width: 100%; height: 200px; object-fit: cover; border-radius: 10px;"/>
     <p style="font-size: 0.85em;">This is my dog, Ok. Yes, her name is Ok! </p>
   </div>
 
    <div style="flex: 1 1 45%; max-width: 45%; text-align: center;">
     <img src="images/Pets_Together.jpg" alt="Pets_Together" 
-         style="width: 100%; height: 200px; object-fit: contain; border-radius: 10px;"/>
+         style="width: 100%; height: 200px; object-fit: cover; border-radius: 10px;"/>
     <p style="font-size: 0.85em;">Both of them together on walks</p>
   </div>
   
