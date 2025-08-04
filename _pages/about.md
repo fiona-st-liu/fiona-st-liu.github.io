@@ -11,6 +11,12 @@ Fiona's Personal Website
 ======
 Thank's for visiting my website! This site is currently under development. Please check back soon for more content.
 
+**About Me:**
+Hello and thank you for visiting my website! I'm Fiona, a Ph.D. candidate in Civil and Environmental Engineering at the Pennsylvania State University, advised by Dr. Li Li. I expect to graduate in Summer 2027.
+
+My research focus involves investigating how land use changes - such as deforestation, forest regeneration, and urbanization - alter hydrological flow paths and biogeochemical processes that affect stream water quality. I use a combination of **reactive transport modeling, high-resolution sensor data**, and **machine learning approaches** to explore the mechanisms and predictability of water quality responses. This work spans from understanding dissolved carbon dynamics in forested catchments to predicting eutrophication risks using deep learning models, offering a view of land use-water quality interactions under current and future conditions.
+
+
 **Education:**
 - **Ph.D.** in Civil and Environmental Engineering, *The Pennsylvania State University* (Expected 2027)
 - **B.S.** in Ecology and Evolutionary Biology & Natural Resources and the Environment, *University of Connecticut* (2022)
