@@ -27,18 +27,18 @@ My research focus involves investigating how land use changes - such as deforest
 
 <h2>Gallery</h2>
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 32px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 32px;">
   
-  <div style="width: 500px; text-align: center;">
+  <div style="flex: 1 1 45%; max-width: 45%; text-align: center;">
     <img src="images/Gordon_2025.jpg" alt="Gordon 2025"
-         style="width: 500px; height: 300px; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+         style="width: 100%; height: 200px; object-fit: cover; border-radius: 10px;" />
     <p style="font-size: 0.9em;">With my incredible research peers at the 2025 Gordon Research Conference</p>
   </div>
 
-  <div style="width: 500px; text-align: center;">
+  <div style="flex: 1 1 45%; max-width: 45%; text-align: center;">
     <img src="images/WaterConference_Audience.jpg" alt="Water Conference 2025"
-         style="width: 500px; height: 300px; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
-    <p style="font-size: 0.9em;">A fantastic turnout at the 2025 Water Conference: Water on the Horizon...</p>
+          style="width: 100%; height: 200px; object-fit: cover; border-radius: 10px;"/>
+    <p style="font-size: 0.9em;">A fantastic turnout at the 2025 Water Conference: Water on the Horizon. It was an honor to serve as the Water Council Student Representative and help organize this event alongside my amazing PAWS team.</p>
   </div>
 
   <div style="flex: 1 1 200px; max-width: 220px; text-align: center;">
