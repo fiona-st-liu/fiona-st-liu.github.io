@@ -26,4 +26,4 @@ My research focus involves investigating how land use changes - such as deforest
 - Bisson, A. M., Liu, F., Moore, E. M., Briggs, M. A., & Helton, A. M. (2025). Preferential groundwater discharges along stream corridors are disregarded sources of greenhouse gases. Journal of Geophysical Research: Biogeosciences, 130(3), e2024JG008395.
 
 **Galley**
-<img src="assets/images/Gordon_2025.jpg" alt="Fiona Liu headshot" width="200" style="border-radius: 10px;" />
+<img src="images/Gordon_2025.jpg" alt="Gordon Research Conference 2025" width="200" style="border-radius: 10px;" />
