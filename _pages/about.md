@@ -25,22 +25,21 @@ My research focus involves investigating how land use changes - such as deforest
 - Liu, F., Liu, F. S., Kerins, D., Ramesh, S., Sullivan, P. L., Billings, S. A., ... & Li, L. (2025). What Happens Below? Contrasting Subsurface Water and Dissolved Carbon Dynamics Beneath Young and Old Forests. Authorea Preprints.
 - Bisson, A. M., Liu, F., Moore, E. M., Briggs, M. A., & Helton, A. M. (2025). Preferential groundwater discharges along stream corridors are disregarded sources of greenhouse gases. Journal of Geophysical Research: Biogeosciences, 130(3), e2024JG008395.
 
-**Galley**
 <h2>Gallery</h2>
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
 
   <div style="flex: 1 1 200px; max-width: 220px; text-align: center;">
-    <img src="images/Gordon_2025.jpg" alt="Gordon 2025" style="width: 100%; border-radius: 10px;" />
+    <img src="images/Gordon_2025.jpg" alt="Gordon 2025" style="width: 100%; height: 160px; object-fit: cover; border-radius: 10px;" />
     <p style="font-size: 0.85em;">With my incredible research peers at the 2025 Gordon Research Conference</p>
   </div>
 
   <div style="flex: 1 1 200px; max-width: 220px; text-align: center;">
-    <img src="images/WaterConference_Audience.jpg" alt="Water Conference 2025" style="width: 100%; border-radius: 10px;" />
+    <img src="images/WaterConference_Audience.jpg" alt="Water Conference 2025" style="width: 100%; height: 160px; object-fit: cover; border-radius: 10px;" />
     <p style="font-size: 0.85em;">A fantastic turnout at the 2025 Water Conference: Water on the Horizon. It was an honor to serve as the Water Council Student Representative and help organize this event alongside my amazing PAWS team. </p>
   </div>
 
   <div style="flex: 1 1 200px; max-width: 220px; text-align: center;">
-    <img src="images/FRES_HJA.jpg" alt="FRES_HJA" style="width: 100%; border-radius: 10px;" />
+    <img src="images/FRES_HJA.jpg" alt="FRES_HJA" style="width: 100%; height: 160px; object-fit: cover; border-radius: 10px;" />
     <p style="font-size: 0.85em;">With my incredible research team and PIs at the H.J. Andrews Experimental Forest</p>
   </div>
 
