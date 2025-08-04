@@ -26,15 +26,15 @@ My research focus involves investigating how land use changes - such as deforest
 - Bisson, A. M., Liu, F., Moore, E. M., Briggs, M. A., & Helton, A. M. (2025). Preferential groundwater discharges along stream corridors are disregarded sources of greenhouse gases. Journal of Geophysical Research: Biogeosciences, 130(3), e2024JG008395.
 
 <h2>Gallery</h2>
-<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 24px;">
 
-  <div style="flex: 1 1 200px; max-width: 220px; text-align: center;">
-    <img src="images/Gordon_2025.jpg" alt="Gordon 2025" style="width: 100%; height: 160px; object-fit: cover; border-radius: 10px;" />
+  <div style="flex: 1 1 45%; max-width: 45%; text-align: center;">
+    <img src="images/Gordon_2025.jpg" alt="Gordon 2025" style="width: 100%; height: 200px; object-fit: cover; border-radius: 10px;" />
     <p style="font-size: 0.85em;">With my incredible research peers at the 2025 Gordon Research Conference</p>
   </div>
 
-  <div style="flex: 1 1 200px; max-width: 220px; text-align: center;">
-    <img src="images/WaterConference_Audience.jpg" alt="Water Conference 2025" style="width: 100%; height: 160px; object-fit: cover; border-radius: 10px;" />
+  <div style="flex: 1 1 45%; max-width: 45%; text-align: center;">
+    <img src="images/WaterConference_Audience.jpg" alt="Water Conference 2025" style="width: 100%; height: 200px; object-fit: cover; border-radius: 10px;" />
     <p style="font-size: 0.85em;">A fantastic turnout at the 2025 Water Conference: Water on the Horizon. It was an honor to serve as the Water Council Student Representative and help organize this event alongside my amazing PAWS team. </p>
   </div>
 
