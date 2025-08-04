@@ -5,6 +5,8 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+nav: true
+order: 1
 ---
 
 {% include base_path %}
