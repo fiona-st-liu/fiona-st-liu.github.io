@@ -24,3 +24,6 @@ My research focus involves investigating how land use changes - such as deforest
 **Selected Publications:**
 - Liu, F., Liu, F. S., Kerins, D., Ramesh, S., Sullivan, P. L., Billings, S. A., ... & Li, L. (2025). What Happens Below? Contrasting Subsurface Water and Dissolved Carbon Dynamics Beneath Young and Old Forests. Authorea Preprints.
 - Bisson, A. M., Liu, F., Moore, E. M., Briggs, M. A., & Helton, A. M. (2025). Preferential groundwater discharges along stream corridors are disregarded sources of greenhouse gases. Journal of Geophysical Research: Biogeosciences, 130(3), e2024JG008395.
+
+**Galley**
+<img src="assets/images/Gordon_2025.jpg" alt="Fiona Liu headshot" width="200" style="border-radius: 10px;" />
